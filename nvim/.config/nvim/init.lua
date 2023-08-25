@@ -1,0 +1,2 @@
+require("zar")
+print("hello")
